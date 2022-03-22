@@ -2,7 +2,7 @@
 
 В этом репозитории содержатся учебные проекты, которые я выполнил за период учебы в Яндекс Практикуме на направлении "Специалист по Data Science"
 
-<img src="https://info-profi.net/wp-content/uploads/2020/09/%D0%AF%D0%9F-%D1%81%D1%82%D0%B0%D1%80%D1%82-735x400.jpg">
+<p style=" text-align: center"> <img src="https://info-profi.net/wp-content/uploads/2020/09/%D0%AF%D0%9F-%D1%81%D1%82%D0%B0%D1%80%D1%82-735x400.jpg"> </p>
 
 ## Описание проектов 
 
