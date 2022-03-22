@@ -1,6 +1,8 @@
-# Data-Science-Projects
+# Яндекс Практикум
 
 В этом репозитории содержатся учебные проекты, которые я выполнил за период учебы в Яндекс Практикуме на направлении "Специалист по Data Science"
+
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fvk.com%2Fwall-11283947_120436&psig=AOvVaw1lcwRMElVwXuA8YkqB87HI&ust=1648046852034000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOjz_Iz72fYCFQAAAAAdAAAAABAD">
 
 ## Описание проектов 
 
